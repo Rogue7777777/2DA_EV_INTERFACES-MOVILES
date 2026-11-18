@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Paleta Material 3 (modo claro). Semilla: verde #1B6B4A.
+     En Android 12+ DynamicColors (Material You) la reemplaza por los colores del fondo de pantalla. -->
+<resources>
+    <color name="md_primary">#1B6B4A</color>
+    <color name="md_on_primary">#FFFFFF</color>
+    <color name="md_primary_container">#A6F2C8</color>
+    <color name="md_on_primary_container">#002113</color>
+    <color name="md_secondary">#4E6355</color>
+    <color name="md_on_secondary">#FFFFFF</color>
+    <color name="md_secondary_container">#D0E8D6</color>
+    <color name="md_on_secondary_container">#0B1F14</color>
+    <color name="md_tertiary">#3B6470</color>
+    <color name="md_on_tertiary">#FFFFFF</color>
+    <color name="md_tertiary_container">#BFE9F7</color>
+    <color name="md_on_tertiary_container">#001F28</color>
+    <color name="md_error">#BA1A1A</color>
+    <color name="md_on_error">#FFFFFF</color>
+    <color name="md_error_container">#FFDAD6</color>
+    <color name="md_on_error_container">#410002</color>
+    <color name="md_background">#F6FBF4</color>
+    <color name="md_on_background">#181D19</color>
+    <color name="md_surface">#F6FBF4</color>
+    <color name="md_on_surface">#181D19</color>
+    <color name="md_surface_variant">#DCE5DC</color>
+    <color name="md_on_surface_variant">#404943</color>
+    <color name="md_outline">#707972</color>
+    <color name="md_outline_variant">#C0C9C0</color>
+</resources>

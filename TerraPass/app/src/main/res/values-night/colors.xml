@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Paleta Material 3 (modo oscuro). -->
+<resources>
+    <color name="md_primary">#8BD6AD</color>
+    <color name="md_on_primary">#003822</color>
+    <color name="md_primary_container">#005234</color>
+    <color name="md_on_primary_container">#A6F2C8</color>
+    <color name="md_secondary">#B4CCBA</color>
+    <color name="md_on_secondary">#203528</color>
+    <color name="md_secondary_container">#374B3E</color>
+    <color name="md_on_secondary_container">#D0E8D6</color>
+    <color name="md_tertiary">#A3CDDB</color>
+    <color name="md_on_tertiary">#043641</color>
+    <color name="md_tertiary_container">#214C58</color>
+    <color name="md_on_tertiary_container">#BFE9F7</color>
+    <color name="md_error">#FFB4AB</color>
+    <color name="md_on_error">#690005</color>
+    <color name="md_error_container">#93000A</color>
+    <color name="md_on_error_container">#FFDAD6</color>
+    <color name="md_background">#101512</color>
+    <color name="md_on_background">#E0E4DE</color>
+    <color name="md_surface">#101512</color>
+    <color name="md_on_surface">#E0E4DE</color>
+    <color name="md_surface_variant">#404943</color>
+    <color name="md_on_surface_variant">#C0C9C0</color>
+    <color name="md_outline">#8A938B</color>
+    <color name="md_outline_variant">#404943</color>
+</resources>

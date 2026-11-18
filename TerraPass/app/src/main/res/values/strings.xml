@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">TerraPass</string>
+    <string name="slogan">Acceso seguro a tu espacio verde</string>
+
+    <!-- Login -->
+    <string name="login_titulo">Iniciar sesión</string>
+    <string name="login_subtitulo">Ingresa tus datos para continuar</string>
+    <string name="hint_correo">Correo electrónico</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="olvide_password">¿Olvidaste tu contraseña?</string>
+    <string name="btn_login">Iniciar sesión</string>
+    <string name="o_divisor">o</string>
+    <string name="btn_crear_cuenta">Crear cuenta</string>
+    <string name="pie_academico">Prototipo académico · Material 3</string>
+    <string name="logo_desc">Logotipo de TerraPass</string>
+
+    <!-- Registro -->
+    <string name="registro_titulo">Crear cuenta</string>
+    <string name="registro_subtitulo">Completa tus datos para registrarte</string>
+    <string name="hint_nombre">Nombre completo</string>
+    <string name="hint_confirmar">Confirmar contraseña</string>
+    <string name="ayuda_password">Mínimo 8 caracteres, con letras y números</string>
+    <string name="btn_registrar">Registrarme</string>
+    <string name="ya_tengo_cuenta">¿Ya tienes cuenta? Inicia sesión</string>
+    <string name="volver">Volver</string>
+
+    <!-- Recuperación -->
+    <string name="recuperar_titulo">Recuperar contraseña</string>
+    <string name="recuperar_mensaje">Escribe tu correo y te enviaremos instrucciones. Esta acción es solo una simulación.</string>
+    <string name="btn_cancelar">Cancelar</string>
+    <string name="btn_enviar">Enviar</string>
+
+    <!-- Home -->
+    <string name="home_saludo">¡Hola, %1$s!</string>
+    <string name="home_mensaje">Inicio de sesión simulado correctamente. Esta pantalla confirma que el flujo de acceso funciona.</string>
+    <string name="btn_cerrar_sesion">Cerrar sesión</string>
+
+    <!-- Errores y mensajes -->
+    <string name="error_correo_vacio">Escribe tu correo electrónico</string>
+    <string name="error_correo_formato">El formato del correo no es válido</string>
+    <string name="error_password_vacia">Escribe tu contraseña</string>
+    <string name="error_password_corta">Debe tener al menos 8 caracteres</string>
+    <string name="error_password_debil">Incluye al menos una letra y un número</string>
+    <string name="error_nombre">Escribe tu nombre completo (mínimo 3 caracteres)</string>
+    <string name="error_confirmar_vacia">Confirma tu contraseña</string>
+    <string name="error_no_coinciden">Las contraseñas no coinciden</string>
+    <string name="msg_registro_ok">Cuenta creada (simulación). Ya puedes iniciar sesión.</string>
+    <string name="msg_recuperacion_ok">Si el correo existe, recibirás instrucciones (simulación).</string>
+</resources>
